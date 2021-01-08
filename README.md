@@ -1,5 +1,5 @@
 # Shaadi-Example
-Example for Shaadi.com App Cards <br><br>
+Example for Shaadi App Cards <br><br>
 
 ## Screenshots
 ### 1
